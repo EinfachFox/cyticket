@@ -1,0 +1,12 @@
+{
+  "prefix": "~",
+  "main_token": "Dein_Token",
+  "developers": ["Deine ID"],
+  "bot_name":"BOT_Name",
+  "emoji":"✉️",
+  "color":"9DDA11",
+  "ticket_limit":"3",
+  "support_role_id":"Deine Support ID",
+  "category_id":"Deine Category",
+  "log_channel_id":"Dein Log Channel"
+}
